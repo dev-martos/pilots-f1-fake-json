@@ -1,38 +1,39 @@
-{"drivers": [
-  {
-    "nome": "Lewis",
-    "sobrenome": "Hamilton",
-    "equipe": "Mercedes",
-    "pontuacao": 387,
-    "foto": "URL_da_foto_Lewis_Hamilton"
-  },
-  {
-    "nome": "Max",
-    "sobrenome": "Verstappen",
-    "equipe": "Red Bull Racing",
-    "pontuacao": 405,
-    "foto": "URL_da_foto_Max_Verstappen"
-  },
-  {
-    "nome": "Valtteri",
-    "sobrenome": "Bottas",
-    "equipe": "Mercedes",
-    "pontuacao": 226,
-    "foto": "URL_da_foto_Valtteri_Bottas"
-  },
-  {
-    "nome": "Lando",
-    "sobrenome": "Norris",
-    "equipe": "McLaren",
-    "pontuacao": 160,
-    "foto": "URL_da_foto_Lando_Norris"
-  },
-  {
-    "nome": "Charles",
-    "sobrenome": "Leclerc",
-    "equipe": "Ferrari",
-    "pontuacao": 159,
-    "foto": "URL_da_foto_Charles_Leclerc"
-  }
-]
+{
+   "drivers":[
+      {
+         "nome":"Lewis",
+         "sobrenome":"Hamilton",
+         "equipe":"Mercedes",
+         "pontuacao":387,
+         "foto":"URL_da_foto_Lewis_Hamilton"
+      },
+      {
+         "nome":"Max",
+         "sobrenome":"Verstappen",
+         "equipe":"Red Bull Racing",
+         "pontuacao":405,
+         "foto":"URL_da_foto_Max_Verstappen"
+      },
+      {
+         "nome":"Valtteri",
+         "sobrenome":"Bottas",
+         "equipe":"Mercedes",
+         "pontuacao":226,
+         "foto":"URL_da_foto_Valtteri_Bottas"
+      },
+      {
+         "nome":"Lando",
+         "sobrenome":"Norris",
+         "equipe":"McLaren",
+         "pontuacao":160,
+         "foto":"URL_da_foto_Lando_Norris"
+      },
+      {
+         "nome":"Charles",
+         "sobrenome":"Leclerc",
+         "equipe":"Ferrari",
+         "pontuacao":159,
+         "foto":"URL_da_foto_Charles_Leclerc"
+      }
+   ]
 }
