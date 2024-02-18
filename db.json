@@ -1,4 +1,4 @@
-[
+{"drivers": [
   {
     "nome": "Lewis",
     "sobrenome": "Hamilton",
@@ -35,3 +35,4 @@
     "foto": "URL_da_foto_Charles_Leclerc"
   }
 ]
+}
