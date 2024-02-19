@@ -5,35 +5,35 @@
          "sobrenome":"Hamilton",
          "equipe":"Mercedes",
          "pontuacao":255,
-         "foto":"URL_da_foto_Lewis_Hamilton"
+         "foto":"https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/L/LEWHAM01_Lewis_Hamilton/lewham01.png.transform/2col/image.png"
       },
       {
          "nome":"Max",
          "sobrenome":"Verstappen",
          "equipe":"Red Bull Racing",
          "pontuacao":405,
-         "foto":"URL_da_foto_Max_Verstappen"
+         "foto":"https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/M/MAXVER01_Max_Verstappen/maxver01.png.transform/2col/image.png"
       },
       {
          "nome":"Valtteri",
          "sobrenome":"Bottas",
          "equipe":"Mercedes",
          "pontuacao":226,
-         "foto":"URL_da_foto_Valtteri_Bottas"
+         "foto":"https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/V/VALBOT01_Valtteri_Bottas/valbot01.png.transform/2col/image.png"
       },
       {
          "nome":"Lando",
          "sobrenome":"Norris",
          "equipe":"McLaren",
          "pontuacao":160,
-         "foto":"URL_da_foto_Lando_Norris"
+         "foto":"https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/L/LANNOR01_Lando_Norris/lannor01.png.transform/2col/image.png"
       },
       {
          "nome":"Charles",
          "sobrenome":"Leclerc",
          "equipe":"Ferrari",
          "pontuacao":159,
-         "foto":"URL_da_foto_Charles_Leclerc"
+         "foto":"https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/C/CHALEC01_Charles_Leclerc/chalec01.png.transform/2col/image.png"
       }
    ]
 }
